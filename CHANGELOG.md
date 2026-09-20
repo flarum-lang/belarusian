@@ -5,8 +5,8 @@ CHANGELOG
 2.0.0 (XXXX-XX-XX)
 ------------------
 
-**Агульныя зьмяненьні**:
+**General changes**:
 
-* Абноўлены пераклады Day.js.
+* Updated Day.js translations.
 
 
